@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eaeae3;
+}
+
+.header {
+    padding: 10px 0;
+    background-color: dodgerblue;
+    border-bottom: 3px solid red;
+}
+
+main {
+    padding: 40px 0;
+}
+
+.section {
+    padding: 60px 0;
+}
+
+.heading {
+    color: orangered;
+}
+
+.intro-text {
+    color: honeydew;
+}
+
+.menu-heading {
+    color: magenta;
+}
+
+.form-heading {
+    color: dodgerblue;
+}
+
+.ur {
+    color: dodgerblue;
+}
+
+.subtotal-div, .ticket-div {
+    padding: 15px;
+    background-color: khaki;
+    border: 3px solid orangered;
+    border-radius: 5px;
+}
+
+.footer {
+    padding: 10px 0;
+}
