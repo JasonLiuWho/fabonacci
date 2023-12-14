@@ -42,11 +42,21 @@ main {
     color: dodgerblue;
 }
 
+.menu-div {
+    padding: 60px 0;
+}
+
 .subtotal-div, .ticket-div {
     padding: 15px;
     background-color: khaki;
     border: 3px solid orangered;
     border-radius: 5px;
+}
+
+#receiptTable {
+    width: 100%;
+    padding: 10px;
+    border: 3px solid gold;
 }
 
 .footer {
